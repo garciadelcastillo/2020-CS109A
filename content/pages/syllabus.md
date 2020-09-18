@@ -76,7 +76,7 @@ Video recordings of the live stream will be made available within 24 hours after
 The class meets, virtually, three days a week for lectures (M, W, F). The same lecture will be given twice each day: once in the morning and again in the afternoon, to accommodate students in different time zones. Mondays and Wednesdays will be mostly lecture content with some hands-on coding, whereas Fridays will be the inverse (mostly hands-on coding). Attending and participating in lectures is a crucial component of learning the material presented in this course.
 
 **What to expect** 
-![Class Structure](https://github.com/Harvard-IACS/2020-CS109A/blob/master/content/pages/ClassStructure_new.jpg?raw=true)
+![Class Structure](https://raw.githubusercontent.com/Harvard-IACS/2020-CS109A/master/content/pages/ClassSturcture_new_repeat.png?raw=true)
 
 A lecture will have the following pedagogy layout which will be repeated:
 
@@ -261,7 +261,8 @@ Your final score for the course will be computed using the following weights:
 | Homework 0 | 1%  |
 | Paired Homework (7)            | 42%                |
 | Individual Homework (2)        | 20%                |
-| Quizzes & Exercises            | 12%                |
+| Quizzes                        | 6%                 |
+| Exercises                      | 6%                 |
 | Project                        | 25%                |
 | **Total**                      | **100%**           |
 

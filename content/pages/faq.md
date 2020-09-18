@@ -33,8 +33,8 @@ pre {
   - Individual CS109A HW means you are supposed to work on your own, without any human intervention, assistance, or input. You are not allowed to work with partner.  You are allowed to use OHs to ask for clarification questions, but we may not be able to answer all of your questions or help with your coding.  You are allowed to use all of your materials from the course up to the HW, look at problem resolution online, and look at libraries documentation.
 - **Do I have access to the video recorded materials if I am not an Extension School student?**
   - Yes. All CS109A students have access to all video captured materials. If you have any issues accessing the video content, please send an email to our helpline with your name and HUID.
-- **Can I make-up quizzes?**
-  - No. Only your top 50% of quiz grades will count towards your final grade. This policy is to reduce stress and is in place so that missing a quiz on occasion should not affect your final grade.
+- **Where should I send my questions?**
+  - Use Ed for anying related to the course content or assignments. All other concerns should be sent to the course helpline: cs109a2020@gmail.com
 
 # Auditing
 
@@ -46,3 +46,8 @@ pre {
   	- Audiors should not submit HWs or participate in projects.
   	- Auditors should refrain from using any course and TF resources that are designed for our registered students like Ed, Jupyter Hub, and office hours.
 
+# Quizzes & Exercises
+- **When are quizzes and exercises due?**
+	- Quizzes and exercises are due before the next **9am** lecture.
+- **I missed a quiz/exercise. Can I make it up?**
+	- No. We will drop your lowest 25% of quizzes and your lowest 25% of exercises. This policy is to reduce stress and is in place so that missing a quiz or exercise on occasion should not affect your final grade.
